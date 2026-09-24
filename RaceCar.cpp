@@ -208,8 +208,6 @@ int main()
 
 	// Add default folder for meshes and other media
 	myEngine->AddMediaFolder(".\\Media");
-	myEngine->AddMediaFolder("C:\\Users\\tyler\\Desktop\\RaceCar\\RaceCarAssignment 2\\Media");
-	//myEngine->AddMediaFolder("C:\\Users\\Public\\Documents\\TL-Engine11\\Media");
 
 	///Scene setup (positioning of objects (esp. checkpoints))
 	/**** Set up your scene here ****/
