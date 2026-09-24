@@ -1,7 +1,4 @@
 
-// GamesAssignment2TDM.cpp: A program using the TL-Engine
-
-//Made by Tyler Manning - 21090747 - Games Concepts Assignment 2 - CO1301
 
 #include "TL-Engine11.h" 
 #include <sstream>
